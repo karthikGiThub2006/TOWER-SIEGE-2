@@ -73,7 +73,7 @@ function draw() {
   //text(mouseX + ',' + mouseY, 10, 15);
   textSize(18);
   fill("lightyellow");
-  text("Hi guys i think u enjoyed the play",30,30);
+  text("Hi guys i think u enjoyed the play my Github id is karthikGiThub2006",30,30);
   
   textSize(22);
   fill("white");
